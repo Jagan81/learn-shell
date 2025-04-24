@@ -34,4 +34,8 @@ echo x1 - $x1
 
 # 2. RHS
 # Script 300
+# Here Variables will be assigned automatically based on positioning
+# variable 1 - 300, can be accessed by $1
+
+echo First argument - $1
 
